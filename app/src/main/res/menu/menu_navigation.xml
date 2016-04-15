@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group
+        android:id="@+id/section_1"
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/menu_item_news_info"
+            android:icon="@drawable/ic_news_info"
+            android:title="News Info"/>
+
+        <item
+            android:id="@+id/menu_item_magazine"
+            android:icon="@drawable/ic_magazine"
+            android:title="Magazine"/>
+
+        <item
+            android:id="@+id/menu_item_food"
+            android:icon="@drawable/ic_food_catalogue"
+            android:title="Food Catalogue"/>
+
+        <item
+            android:id="@+id/menu_item_culiner"
+            android:icon="@drawable/ic_recomend_culinary"
+            android:title="Recomended Culinary"/>
+
+        <item
+            android:id="@+id/menu_item_place"
+            android:icon="@drawable/ic_place_culinary"
+            android:title="Place Culinary"/>
+
+    </group>
+    <group
+        android:id="@+id/section_2"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/menu_item_setting"
+            android:icon="@drawable/ic_setting"
+            android:title="Settings"/>
+
+        <item
+            android:id="@+id/menu_item_help"
+            android:icon="@drawable/ic_help"
+            android:title="Help"/>
+    </group>
+</menu>

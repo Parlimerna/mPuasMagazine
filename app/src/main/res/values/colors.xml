@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#3F51B5</color>
-    <color name="colorPrimaryDark">#303F9F</color>
-    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">@color/blue_navy_solid</color>
+    <color name="colorPrimaryDark">@color/blue_navy_600</color>
+    <color name="colorAccent">#03A9F4</color>
+    <color name="blue_navy_solid">#0D7FD9</color>
+    <color name="blue_navy_600">#0d6eba</color>
+
+    <color name="dark_magazine_background">#413F41</color>
+
+    <color name="font_color_white">#f0ffffff</color>
+
 </resources>

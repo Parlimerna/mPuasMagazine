@@ -3,4 +3,14 @@
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
     <dimen name="fab_margin">16dp</dimen>
+
+    <dimen name="space_16">16dp</dimen>
+
+    <dimen name="text_size_16">16sp</dimen>
+    <dimen name="text_size_18">18sp</dimen>
+    <dimen name="text_size_24">24sp</dimen>
+    <dimen name="text_size_34">34sp</dimen>
+    <dimen name="text_size_42">42sp</dimen>
+    <dimen name="text_size_52">52sp</dimen>
+    <dimen name="text_size_72">72sp</dimen>
 </resources>
